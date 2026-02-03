@@ -309,6 +309,8 @@ section > div.active p {
 
 .flip-card:nth-of-type(5) .flip-card-front img {
   object-position: center center;
+  max-height: 250px;
+  max-width: 100%;
 }
 
 .flip-card:nth-of-type(6) .flip-card-front img {
