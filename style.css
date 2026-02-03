@@ -52,7 +52,6 @@ header {
     transform: translateX(30px) !important;
   }
 }
-}
 
 /* Animated overlay */
 header::before {
