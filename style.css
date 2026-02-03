@@ -288,6 +288,7 @@ section > div.active p {
   object-position: center center;
   display: block;
   margin: 0;
+  aspect-ratio: 16 / 9;
 }
 
 /* Different focus positions for each flip card */
